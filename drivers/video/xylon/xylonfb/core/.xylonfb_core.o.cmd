@@ -1,0 +1,1 @@
+cmd_drivers/video/xylon/xylonfb/of/../core/xylonfb_core.o := arm-linux-gnueabi-ld -EL    -r -o drivers/video/xylon/xylonfb/of/../core/xylonfb_core.o drivers/video/xylon/xylonfb/of/../core/xylonfb.o drivers/video/xylon/xylonfb/of/../core/xylonfb-ioctl.o drivers/video/xylon/xylonfb/of/../core/xylonfb-pixclk.o 

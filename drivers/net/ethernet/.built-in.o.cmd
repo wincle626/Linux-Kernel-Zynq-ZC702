@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/built-in.o :=  arm-linux-gnueabi-ld -EL    -r -o drivers/net/ethernet/built-in.o drivers/net/ethernet/arc/built-in.o drivers/net/ethernet/cadence/built-in.o drivers/net/ethernet/broadcom/built-in.o drivers/net/ethernet/intel/built-in.o drivers/net/ethernet/i825xx/built-in.o drivers/net/ethernet/realtek/built-in.o drivers/net/ethernet/xilinx/built-in.o 
